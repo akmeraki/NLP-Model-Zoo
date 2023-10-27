@@ -17,6 +17,7 @@
 
 
 1. Building a NLP classifier on the News20 dataset (Keras)
+    [Notebook -> Neural_Network_Classifier.ipynb](/NLP-Model-Zoo/NLP-Classifier/neural_networks_Classifier.ipynb)
 
 2. Transformers for Scratch
 
