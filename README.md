@@ -16,7 +16,8 @@
 #### NLP From Scratch 
 
 
-1. Building a NLP classifier on the News20 dataset 
+1. Building a NLP classifier on the News20 dataset (Keras)
+
 2. Transformers for Scratch
 
 
