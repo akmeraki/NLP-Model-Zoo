@@ -2,16 +2,17 @@
 
 
 ## NLP Preprocessing 
+
 1.  Tokenization, Case-folding, Stop-word Removal, 
     Stemming, Lemmatization, Parts-of-Speech Tagging, 
     Named Entity Recognition, Parsing
-    [Notebook->NLP_preprocessing.ipynb](./NLP-preprocessing/NLP_preprocessing.ipynb)
+    [Notebook-> NLP_preprocessing.ipynb](./NLP-preprocessing/NLP_preprocessing.ipynb)
 
 2. Bag of Words, Cosine Similarity, TF-IDF 
-    [Notebook->BOW_TF-IDF.ipynb](./NLP-preprocessing/BOW_TF-IDF.ipynb)
+    [Notebook-> BOW_TF-IDF.ipynb](./NLP-preprocessing/BOW_TF-IDF.ipynb)
 
-3. Word2Vec and Embeddings 
-
+3. Word Vectors, Word2Vec, PCA, Google News Vectors, Sentiment Analysis on YELP (Keras)
+    [Notebook ->  Word_vectors.ipynb](./NLP-preprocessing/Word_vectors.ipynb)
 
 #### NLP From Scratch 
 
