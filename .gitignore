@@ -121,6 +121,9 @@ celerybeat.pid
 
 *.txt
 *.gz
+*.tgz
+*.csv
+
 # Environments
 .env
 .venv
