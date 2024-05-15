@@ -21,6 +21,8 @@
     [Notebook->Neural_Network_Classifier.ipynb](./NLP-Classifier/neural_networks_Classifier.ipynb)
 
 2. Transformers for Scratch
+    Building a charcter level GPT using Mini Shakespeare data
+    [Nootbook->gpt-dev-viz.ipynb](./miniGPT/notebook/gpt-dev-viz.ipynb)
 
 
 
